@@ -3,24 +3,26 @@
 # 📚 PoloCloud Translations
 
 [![License](https://img.shields.io/github/license/HttpMarco/polocloud?style=for-the-badge&color=b2204c)](../LICENSE)
+[![Crowdin](https://badges.crowdin.net/polocloud/localized.svg)](https://crowdin.com/project/polocloud)
+
+Centralized translation resources for the PoloCloud ecosystem.
 
 </div>
 
-Translation resources and manifests used by the **PoloCloud i18n system**.
+## 🌍 About
 
-[![Crowdin](https://badges.crowdin.net/polocloud/localized.svg)](https://crowdin.com/project/polocloud)
-Help us translate PoloCloud on [Crowdin](https://crowdin.com/project/polocloud)!
+This repository contains structured **translation packs** used by the  
+[PoloCloud i18n system](https://github.com/thePolocloud/polocloud-i18n).
 
+Each pack includes:
 
-This repository contains structured translation packs that can be loaded at runtime
-by the PoloCloud internationalization module. Each pack includes:
+- 🎯 A `pack.json` metadata manifest  
+- 🌐 One or more `.properties` language files  
+- 📦 Grouped translations by pack name  
+- ⚡ Support for automatic retrieval and caching  
 
-- 🎯 A `pack.json` metadata manifest
-- 🌍 One or more language files (e.g. `.properties`)
-- 📌 Translations grouped by pack name
-- ⚡ Support for automatic retrieval and caching
+These resources are automatically downloaded and cached by PoloCloud at runtime.
 
-These resources serve as the central store for PoloCloud translation content.
 
 ## 📦 What's Inside
 
@@ -59,7 +61,21 @@ Simply create a PR with your additions or improvements.
 
 > [!IMPORTANT]
 > Please update translations only in the default language file (e.g. `en_US.properties`).
-> Other language files are automatically managed through Crowdin and should not be edited manually.
+> All other languages are managed and synchronized automatically via **Crowdin**  
+> and should not be modified manually.
+
+## 🌐 Translate via Crowdin
+
+All community translations are handled through Crowdin.
+
+<div align="center">
+
+### 👉 Help translate PoloCloud  
+[Translate on Crowdin](https://crowdin.com/project/polocloud)
+
+</div>
+
+Translations submitted on Crowdin are reviewed and synchronized automatically.
 
 ## 📄 License
 
