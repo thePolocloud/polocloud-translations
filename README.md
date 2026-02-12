@@ -61,19 +61,14 @@ Simply create a PR with your additions or improvements.
 
 > [!IMPORTANT]
 > Please update translations only in the default language file (e.g. `en_US.properties`).
-> All other languages are managed and synchronized automatically via **Crowdin**  
-> and should not be modified manually.
+> All other languages are managed and synchronized automatically via **Crowdin** and should not be modified manually.
 
 ## 🌐 Translate via Crowdin
 
 All community translations are handled through Crowdin.
 
-<div align="center">
-
 ### 👉 Help translate PoloCloud  
 [Translate on Crowdin](https://crowdin.com/project/polocloud)
-
-</div>
 
 Translations submitted on Crowdin are reviewed and synchronized automatically.
 
