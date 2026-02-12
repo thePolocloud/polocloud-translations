@@ -3,11 +3,12 @@
 # 📚 PoloCloud Translations
 
 [![License](https://img.shields.io/github/license/HttpMarco/polocloud?style=for-the-badge&color=b2204c)](../LICENSE)
-[![Crowdin](https://badges.crowdin.net/polocloud/localized.svg)](https://crowdin.com/project/polocloud)
 
 </div>
 
 Translation resources and manifests used by the **PoloCloud i18n system**.
+
+[![Crowdin](https://badges.crowdin.net/polocloud/localized.svg)](https://crowdin.com/project/polocloud)
 Help us translate PoloCloud on [Crowdin](https://crowdin.com/project/polocloud)!
 
 
