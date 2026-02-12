@@ -1,6 +1,6 @@
 {
-  "name": "cli",
-  "version": "1.0.2",
+  "name": "database",
+  "version": "1.0.0",
   "defaultLanguage": "en_US",
   "languages": [
     "en_US"
