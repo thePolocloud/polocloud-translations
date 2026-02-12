@@ -1,9 +1,15 @@
+<div align="center">
+
 # 📚 PoloCloud Translations
 
+[![License](https://img.shields.io/github/license/HttpMarco/polocloud?style=for-the-badge&color=b2204c)](../LICENSE)
 [![Crowdin](https://badges.crowdin.net/polocloud/localized.svg)](https://crowdin.com/project/polocloud)
-Help us translate PoloCloud on [Crowdin](https://crowdin.com/project/polocloud)!
+
+</div>
 
 Translation resources and manifests used by the **PoloCloud i18n system**.
+Help us translate PoloCloud on [Crowdin](https://crowdin.com/project/polocloud)!
+
 
 This repository contains structured translation packs that can be loaded at runtime
 by the PoloCloud internationalization module. Each pack includes:
